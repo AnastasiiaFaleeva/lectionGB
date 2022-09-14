@@ -1,0 +1,15 @@
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\bin\Debug\net6.0\Example001_HelloConcol.exe
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\bin\Debug\net6.0\Example001_HelloConcol.deps.json
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\bin\Debug\net6.0\Example001_HelloConcol.runtimeconfig.json
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\bin\Debug\net6.0\Example001_HelloConcol.dll
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\bin\Debug\net6.0\Example001_HelloConcol.pdb
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\Example001_HelloConcol.csproj.AssemblyReference.cache
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\Example001_HelloConcol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\Example001_HelloConcol.AssemblyInfoInputs.cache
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\Example001_HelloConcol.AssemblyInfo.cs
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\Example001_HelloConcol.csproj.CoreCompileInputs.cache
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\Example001_HelloConcol.dll
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\refint\Example001_HelloConcol.dll
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\Example001_HelloConcol.pdb
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\Example001_HelloConcol.genruntimeconfig.cache
+C:\Users\89149\OneDrive\Рабочий стол\Example\Example001_HelloConcol\obj\Debug\net6.0\ref\Example001_HelloConcol.dll
